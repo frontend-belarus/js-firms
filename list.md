@@ -5,4 +5,4 @@
 |  science soft |   |   | 50+ ? | react? | outsourcing? | |
 |  xbsoftware |   |   | 10+?  | ?  | ? | outsourcing | hosts meetups |
 |  resilio |   |   | 15+ | backbone, nodejs | product | own product resilio sync) on backbone and node |
-
+| itechart  |  |  |  300 | nodejs(expressjs), desktop&mobile frontend(react, backbone, knockout, ember) | outsource |   |
