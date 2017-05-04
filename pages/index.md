@@ -1,3 +1,8 @@
+---
+path: /
+---
+# List of Firms
+
 | firm name  | link  |  logo |  number of js devs | stack | product or os| comments  |
 |---|---|---|---|---|---|---|
 |  epam |   |   |  300-500 | nodejs, browser and desktop frontend | outsource | backer for rolling scopes meetups  |
