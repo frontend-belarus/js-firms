@@ -10,3 +10,4 @@
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
 | Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
 | iFuture  |  https://ifuture.by/ |   |   |  |  |   |
+| ID Finance  |  https://idfinance.com/ |  ![ID Finance logo](https://idfinance.com/wp-content/themes/mehh-idfinance/layout/images/idfinance-logo-old-white.svg) |   |  |  |   |
