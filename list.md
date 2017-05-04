@@ -9,3 +9,4 @@
 | Paralect  |  https://www.paralect.com/ |   |   |  |  |   |
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
 | Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
+| iFuture  |  https://ifuture.by/ |   |   |  |  |   |
