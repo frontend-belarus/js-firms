@@ -14,4 +14,4 @@
 | TulaCo  |  http://www.tula.co/ |  |  |  |  |  |
 | UpsilonIT  |  https://companies.dev.by/upsilon-it | ![UpsilonIT](https://avatars2.githubusercontent.com/u/25382469?v=3&s=200)  |  15+ | Ember.js, Angular, React | product/outsource |  js + python  |
 | Capsilon  |  http://www.capsilon.com/ |   |   |  |  |    |
-| Synesis  |  http://synesis.by/ |  | 10+ | Angular, React, vanilla js | product |  |
+| Synesis  |  http://synesis.by/ |  | 10+ | Angular, React, vanilla js | product | https://kipod.by/ |
