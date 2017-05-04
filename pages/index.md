@@ -14,3 +14,6 @@ path: /
 | Paralect  |  https://www.paralect.com/ |   |   |  |  |   |
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
 | Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
+| iFuture  |  https://ifuture.by/ |   |   |  |  |   |
+| ID Finance  |  https://idfinance.com/ | ![ID Finance logo](https://idfinance.com/wp-content/themes/mehh-idfinance/layout/images/idfinance-logo-old-white.svg) |  9 | Angular, Backbone, react js, native js | product |  ID Finance is an fast-growing international FinTech company specialising in data science, credit scoring, and online lending in emerging markets https://vk.com/public123631313 https://www.facebook.com/IDFinancecom |
+| UpsilonIT  |  https://companies.dev.by/upsilon-it | ![UpsilonIT](https://avatars2.githubusercontent.com/u/25382469?v=3&s=200)  |  15+ | Ember.js, Angular, React | product/outsource |  js + python  |
