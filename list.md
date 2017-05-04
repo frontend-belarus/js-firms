@@ -8,3 +8,4 @@
 | iTechArt  |  https://www.itechart.com/ | ![iTechArt logo](https://www.itechart.com/static/img/logo.png)  |  250+ | nodejs(expressjs), desktop&mobile frontend(react, backbone, knockout, ember) | outsource |   |
 | Paralect  |  https://www.paralect.com/ |   |   |  |  |   |
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
+| Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
