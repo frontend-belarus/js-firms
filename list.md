@@ -10,4 +10,4 @@
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
 | Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
 | iFuture  |  https://ifuture.by/ |   |   |  |  |   |
-| ID Finance  |  https://idfinance.com/ |  |  9 | Angular, Backbone, react js, native js | product |   |
+| ID Finance  |  https://idfinance.com/ |  |  9 | Angular, Backbone, react js, native js | product |  ID Finance is an fast-growing international FinTech company specialising in data science, credit scoring, and online lending in emerging markets https://vk.com/public123631313 https://www.facebook.com/IDFinancecom |
