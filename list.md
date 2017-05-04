@@ -6,3 +6,4 @@
 |  xbsoftware |   |   | 10+?  | ?  | ? | outsourcing | hosts meetups |
 |  resilio |   |   | 15+ | backbone, nodejs | product | own product resilio sync) on backbone and node |
 | iTechArt  |  https://www.itechart.com/ | ![iTechArt logo](https://www.itechart.com/static/img/logo.png)  |  250+ | nodejs(expressjs), desktop&mobile frontend(react, backbone, knockout, ember) | outsource |   |
+| UpsilonIT  |  https://companies.dev.by/upsilon-it | ![UpsilonIT](https://avatars2.githubusercontent.com/u/25382469?v=3&s=200)  |  15+ | Ember.js, Angular, React | product/outsource |  js + python  |
