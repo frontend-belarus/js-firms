@@ -10,4 +10,4 @@
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
 | Onthespot  |  http://onthespotdev.com/ |   |   |  |  |   |
 | iFuture  |  https://ifuture.by/ |   |   |  |  |   |
-| ID Finance  |  https://idfinance.com/ |  | |  9 | Angular, Backbone, react js, native js | product |   |
+| ID Finance  |  https://idfinance.com/ |  |  9 | Angular, Backbone, react js, native js | product |   |
