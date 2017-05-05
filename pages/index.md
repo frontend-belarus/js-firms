@@ -1,3 +1,8 @@
+---
+path: /
+---
+# List of Firms
+
 | firm name  | link  |  logo |  number of js devs | stack | product or os| comments  |
 |---|---|---|---|---|---|---|
 |  EPAM Systems | https://www.epam.com/  | ![epam logo](https://www.epam.com/content/dam/epam/global/EPAM_logo.svg)  |  600+ | backend; mobile, browser and desktop frontend | outsource / product | backer for rolling scopes meetups  |
