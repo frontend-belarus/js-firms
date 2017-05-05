@@ -1,24 +1,22 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "js-firms",
+  "description": "Fronted-Belarus JS-Firms",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^0.12.45",
-    "object-assign": "^4.1.1",
-    "react-helmet": "^5.0.3",
-    "react-typography": "^0.15.0",
-    "typography": "^0.15.8",
-    "typography-breakpoint-constants": "^0.14.0",
-    "typography-plugin-code": "^0.15.9"
+    "gatsby": "0.12.45",
+    "object-assign": "4.1.1",
+    "react-helmet": "5.0.3",
+    "react-typography": "0.15.0",
+    "typography": "0.15.8",
+    "typography-breakpoint-constants": "0.14.0",
+    "typography-plugin-code": "0.15.9"
   },
   "devDependencies": {
-    "gh-pages": "^0.12.0"
+    "gh-pages": "0.12.0"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
