@@ -9,7 +9,7 @@ path: /
 |  wargaming |   |   | 20-50  |redux, react, angular, vanilla, knockout | product |  geek and linux company |
 |  science soft |   |   | 50+ ? | react? | outsourcing? | |
 |  xbsoftware |   |   | 10+?  | ?  | ? | outsourcing | hosts meetups |
-|  resilio |   |   | 15+ | backbone, nodejs | product | own product resilio sync) on backbone and node |
+|  Resilio | https://resilio.com  |   | 7+ | latest NodeJS, express, passport, phantomjs, mocha, apidoc, eslint, DB and etc… | product | Resilio is a prodcuct company with HQ in San-Francisco and engineering office in Minsk. We’ve got several products based on p2p technology. We can offer challenging tasks and nice environment to grow and sharpen your skills. |
 | iTechArt  |  https://www.itechart.com/ | ![iTechArt logo](https://www.itechart.com/static/img/logo.png)  |  250+ | nodejs(expressjs), desktop&mobile frontend(react, backbone, knockout, ember) | outsource |   |
 | Paralect  |  https://www.paralect.com/ |   |   |  |  |   |
 | HQSoftware  |  http://hqsoftwarelab.by/ |   |   |  |  |   |
