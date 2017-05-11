@@ -20,3 +20,4 @@ path: /
 | UpsilonIT  |  https://companies.dev.by/upsilon-it | ![UpsilonIT](https://avatars2.githubusercontent.com/u/25382469?v=3&s=200)  |  15+ | Ember.js, Angular, React | product/outsource |  js + python  |
 | Capsilon  |  http://www.capsilon.com/ |   |   |  |  |    |
 | Synesis  |  http://synesis.by/ |  | 10+ | Angular, React, vanilla js | product | https://kipod.by/ |
+| Multi Brains  |  https://taxistartup.com/ru/ |  | 2 | ReactJS, Material UI, Native JS, GWT | product | https://taxistartup.com/ru/ |
