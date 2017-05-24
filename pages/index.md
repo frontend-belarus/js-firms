@@ -22,3 +22,4 @@ path: /
 | Synesis  |  http://synesis.by/ |  | 10+ | Angular, React, vanilla js | product | https://kipod.by/ |
 | Multi Brains  |  https://taxistartup.com/ru/ |  | 2 | ReactJS, Material UI, Native JS, GWT | product | https://taxistartup.com/ru/ |
 | Jazz Pixels  |  http://jazzpixels.com/ |  | 3+ | Frontend / Backend / Mobile. React, Redux, Meteor, Vanilla JS, Java, iOS. | outsource / product | A a full-cycle ux and development company |
+| Klika Tech  |  http://klika-tech.com/ |  | 40+ | JS, React, Angular, Node.js | outsource |  |
